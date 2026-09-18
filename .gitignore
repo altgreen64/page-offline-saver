@@ -1,0 +1,11 @@
+# Zapisane strony (wynik działania skryptu)
+scrape_*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# System
+.DS_Store
