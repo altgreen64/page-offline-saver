@@ -6,6 +6,11 @@ katalog `assets/`, więc zapisana strona wygląda i działa jak oryginał, nawet
 
 Coś jak `wget -mkp` czy HTTrack, tylko w jednym czytelnym pliku, który łatwo przerobić pod siebie.
 
+<p align="center">
+  <img src="docs/demo.png" width="760" alt="Page Offline Saver w akcji — pobieranie zasobów strony do assets/" /><br>
+  <sub>Skrypt w akcji — pobiera każdy obrazek/CSS i przepisuje odnośniki na lokalny <code>assets/</code>.</sub>
+</p>
+
 ## Do czego się przydaje
 
 - 📚 **Archiwizacja** — zachowaj artykuł/dokumentację, zanim zniknie
